@@ -1,4 +1,4 @@
-## VISUAL PRODUCT MEASUREMENT
+# VISUAL PRODUCT MEASUREMENT
 
 ## Setup Instructions
 
@@ -34,6 +34,7 @@ npm run dev
 - Node.js (v20.19+ or v22+ recommended)
 - Gemini Vision API (API key required)
 - Modern web browser for frontend usage
+
 
 
 
